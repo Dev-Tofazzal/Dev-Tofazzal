@@ -5,7 +5,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Tofazzal+Islam;" />
+</h1>
 
 ###
 
@@ -13,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Md.Tofazzal Islam from Bangladesh<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
